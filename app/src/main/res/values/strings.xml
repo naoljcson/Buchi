@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buchi</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="over_200_000_stray_dogs_on_addis_ababa_street_in_2020">over 200,000 stray dogs on addis ababa street in 2020!</string>
+    <string name="be_part_of_the_solution">Be part of the solution</string>
+</resources>
